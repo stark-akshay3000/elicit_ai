@@ -34,11 +34,12 @@ Make sure you have the following installed on your machine:
 Git
 Node.js
 npm (Node Package Manager)
-Cloning the Repository
+clone the Repo
+cd elicit_a
 
-git clone https://github.com/adrianhajdin/project_next_13_ai_prompt_sharing.git
-cd project_next_13_ai_prompt_sharing
-Explain
+
+Explain--
+
 Installation
 
 Install the project dependencies using npm:
@@ -55,6 +56,8 @@ NEXTAUTH_SECRET=
 GOOGLE_ID=
 GOOGLE_CLIENT_SECRET=
 MONGODB_URI=
+
+
 Explain
 Replace the placeholder values with your actual credentials. You can obtain these credentials by signing up on these corresponding websites from Google Cloud Console, Cryptpool (for random Auth Secret), and MongoDB.
 
